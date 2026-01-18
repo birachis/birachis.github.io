@@ -15,7 +15,7 @@ window.onscroll = () => {
     navbar.classList.remove('active');
 }
 var typingEffect = new Typed(".multiText", {
-    strings : ["Coder","Designer","Developer"],
+    strings : ["Software Engineer","Web Developer","Mobile Developer","Game Developer"],
     loop : true,
     typeSpeed : 100,
     backSpeed : 80,
